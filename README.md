@@ -1,4 +1,0 @@
-refactoring
-===========
-
-.net refactoring examples

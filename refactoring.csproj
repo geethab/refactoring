@@ -95,11 +95,11 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="MainClass.cs" />
-    <Compile Include="problem1\Receipt.cs" />
-    <Compile Include="problem1\ReceiptTest.cs" />
-    <Compile Include="problem1\Taxi.cs" />
-    <Compile Include="problem2\DateParser.cs" />
-    <Compile Include="problem2\DateParserTest.cs" />
+    <Compile Include="problem2\Receipt.cs" />
+    <Compile Include="problem2\ReceiptTest.cs" />
+    <Compile Include="problem2\Taxi.cs" />
+    <Compile Include="problem1\DateParser.cs" />
+    <Compile Include="problem1\DateParserTest.cs" />
     <Compile Include="problem3\CADApp.cs" />
     <Compile Include="problem3\Graphics.cs" />
     <Compile Include="problem3\Point.cs" />
