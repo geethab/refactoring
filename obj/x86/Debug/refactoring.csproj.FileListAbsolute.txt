@@ -1,0 +1,7 @@
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\refactoring\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\refactoring\bin\Debug\ConsoleApplication.exe
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\refactoring\bin\Debug\ConsoleApplication.pdb
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\refactoring\bin\Debug\nunit.framework.dll
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\refactoring\bin\Debug\nunit.framework.xml
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\refactoring\obj\x86\Debug\ConsoleApplication.exe
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\refactoring\obj\x86\Debug\ConsoleApplication.pdb
