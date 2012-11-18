@@ -32,7 +32,7 @@ namespace Refactoring
             } catch (ArgumentOutOfRangeException) {
                 throw new Exception("Year string is less than 4 characters");
             } catch (FormatException) {
-                throw new Exception("Year is not an integer");
+                throw new Exception("Year isn't integer");
             }
             if (year < 2000 || year > 2013)
                 throw new Exception("Year cannot be less than 2000 or more than 2012");
